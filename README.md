@@ -1,2 +1,2 @@
-# second_assIgnment_A
-create another repository 
+# second_assignment
+create another repository with two different jupyter notebook.
